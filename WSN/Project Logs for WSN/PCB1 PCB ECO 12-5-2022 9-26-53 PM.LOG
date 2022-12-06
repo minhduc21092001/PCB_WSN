@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VBAT Pin=SW1-2
+Removed Pin From Net: NetName=NetP1_1 Pin=SW1-3
+Removed Pin From Net: NetName=VDD5V Pin=SW?-1
+Removed Pin From Net: NetName=VDD Pin=SW?-2
+Removed Pin From Net: NetName=GND Pin=SW?-3
+Removed Member From Class: ClassName=Schematic Member=SW?
+Change Component Comment : Designator=SW1 Old Comment=SW New Comment=500SSP1S2M2QEA
+Added Pin To Net: NetName=VDD5V Pin=SW1-1
+Added Pin To Net: NetName=VDD Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Room: Name=Schematic

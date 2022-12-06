@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VDD5V Pin=IC1-3
+Removed Member From Class: ClassName=Schematic Member=IC1
+Change Component Designator: OldDesignator=M1 NewDesignator=U4
+Change Component Designator: OldDesignator=VR1 NewDesignator=U6
+Added Component: Designator=U5(TO-92-TO92127P495H2044-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS18B20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=IO13 Pin=U5-2
+Added Pin To Net: NetName=VDD5V Pin=U5-3
+Added Member To Class: ClassName=Schematic Member=Component U5 DS18B20

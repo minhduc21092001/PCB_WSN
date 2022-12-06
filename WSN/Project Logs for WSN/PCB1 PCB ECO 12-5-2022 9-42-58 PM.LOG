@@ -1,0 +1,12 @@
+Added Component: Designator=S1(3pin)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "500SSP1S2M2QEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD5V Pin=S1-1
+Added Pin To Net: NetName=VDD Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Member To Class: ClassName=Schematic Member=Component S1 500SSP1S2M2QEA
+Added Room: Name=Schematic

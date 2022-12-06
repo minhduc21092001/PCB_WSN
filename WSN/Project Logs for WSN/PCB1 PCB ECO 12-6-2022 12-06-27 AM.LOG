@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=IO13 Pin=R3-1
+Removed Pin From Net: NetName=IO18 Pin=U4-30
+Removed Pin From Net: NetName=IO13 Pin=U5-2
+Added Pin To Net: NetName=IO19 Pin=R3-1
+Added Pin To Net: NetName=IO18 Pin=U4-33
+Added Pin To Net: NetName=IO19 Pin=U5-2
+Change Net Name : Old Net Name=IO18 New Net Name=IO21
+Added Pin To Net: NetName=IO18 Pin=U4-30
+Added Net: Name=IO18
+Added Room: Name=Schematic

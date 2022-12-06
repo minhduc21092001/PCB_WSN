@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Net Name : Old Net Name=NetM?_1 New Net Name=NetM1_1
+Change Net Name : Old Net Name=NetM?_18 New Net Name=NetM1_18
+Added Member To Class: ClassName=Schematic Member=Component Q2 2N222
+Added Member To Class: ClassName=Schematic Member=Component U1 LM1117
+Added Member To Class: ClassName=Schematic Member=Component U4 Micro_USB
+Added Room: Name=Schematic

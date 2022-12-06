@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VBAT Pin=S2-2
+Removed Member From Class: ClassName=Schematic Member=S2
+Added Room: Name=Schematic

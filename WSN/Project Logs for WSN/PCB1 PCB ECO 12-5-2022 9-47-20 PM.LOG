@@ -1,0 +1,17 @@
+Change Component Comment : Designator=LED2 Old Comment=LED New Comment=BLUE
+Change Component Comment : Designator=LED1 Old Comment=LED New Comment=GREEN
+Change Component Comment : Designator=LED4 Old Comment=LED New Comment=RED
+Change Component Comment : Designator=LED3 Old Comment=LED New Comment=YELLOW
+Change Component Designator: OldDesignator=S? NewDesignator=SW1
+Added Component: Designator=SW2(SW_500SSP1S2M2QEA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "500SSP1S2M2QEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=SW2-2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=SW2-3
+Added Net: Name=NetP1_1
+Added Member To Class: ClassName=Schematic Member=Component SW2 500SSP1S2M2QEA

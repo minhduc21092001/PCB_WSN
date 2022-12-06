@@ -1,0 +1,12 @@
+Added Component: Designator=VR1(DPAK170P1435X465-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XL6009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=NetD2_1 Pin=VR1-3
+Added Pin To Net: NetName=VBAT Pin=VR1-4
+Added Pin To Net: NetName=NetR9_2 Pin=VR1-5
+Added Member To Class: ClassName=Schematic Member=Component VR1 XL6009

@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetM?_18 Pin=M?-18
+Added Pin To Net: NetName=NetM?_18 Pin=U?-9
+Added Net: Name=NetM?_18
+Added Member To Class: ClassName=Schematic Member=Component Q? 2N222
+Added Member To Class: ClassName=Schematic Member=Component U? CH340C
+Added Member To Class: ClassName=Schematic Member=Component U? Micro_USB
+Added Member To Class: ClassName=Schematic Member=Component U? LM2596
+Added Room: Name=Schematic

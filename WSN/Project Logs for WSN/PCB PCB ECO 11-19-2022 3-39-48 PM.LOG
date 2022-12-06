@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=U? Old Footprint=10118193-0001LF New Footprint=10118193_USB
+Added Member To Class: ClassName=Schematic Member=Component Q? 2N222
+Added Member To Class: ClassName=Schematic Member=Component U? CH340C
+Added Member To Class: ClassName=Schematic Member=Component U? Micro_USB
+Added Member To Class: ClassName=Schematic Member=Component U? LM2596
+Added Room: Name=Schematic

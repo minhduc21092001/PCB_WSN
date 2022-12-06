@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C2 Old Footprint=C3MM New Footprint=C5mm
+Change Component Footprint: Designator=C4 Old Footprint=CAP-ALU-SMD-F New Footprint=C3MM
+Change Component Footprint: Designator=C6 Old Footprint=CAP-ALU-SMD-F New Footprint=C5mm
+Change Component Footprint: Designator=LED1 Old Footprint=LED-0805-Green New Footprint=LED_GREEN_3MM
+Change Component Footprint: Designator=LED2 Old Footprint=LED-1206-Blue New Footprint=LED_BLUE_3MM
+Change Component Footprint: Designator=LED3 Old Footprint=LED-1206-Orange New Footprint=LED_YELLOW_3MM
+Change Component Footprint: Designator=LED4 Old Footprint=LED-1206-Red New Footprint=LED_RED_3MM
+Change Component Footprint: Designator=BT1 Old Footprint=SW2 New Footprint=BUTTON 4 PIN
+Change Component Footprint: Designator=BT2 Old Footprint=SW2 New Footprint=BUTTON 4 PIN
+Change Component Footprint: Designator=BT3 Old Footprint=SW2 New Footprint=BUTTON 4 PIN
+Added Room: Name=Schematic
